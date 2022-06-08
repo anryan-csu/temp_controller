@@ -6,7 +6,7 @@
 
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
-#define RELAY_PUMP_PIN A1 // Arduino pin connected to relay which connected to fan, temp to LED
+#define RELAY_PUMP_PIN A1 // Arduino pin connected to relay which connected to pump
 #define BLUE 6
 #define GREEN 5
 #define RED 3
